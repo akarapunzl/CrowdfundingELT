@@ -1,0 +1,1 @@
+Paulette did the first database coding, Sam did the second database coding, and we worked through the contacts database coding together with help from Mo. We also worked through the ERD and the SQL schema together during class. 
